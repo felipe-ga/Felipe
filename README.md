@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">💬 Soy Software Developer con experiencia en desarrollar aplicaciones para el sector financiero. He participado en desarrollo tanto del lado del BackEnd construyendo servicios REST con JAVA y C# así como intervención de lado del FrontEnd utilizando HTML,Javascript,Materialize</h3>
+<h3 align="center">💬 Soy Software Developer con experiencia en desarrollar aplicaciones para el sector financiero. He participado en desarrollo tanto del lado del BackEnd construyendo servicios REST con JAVA y C# así como la participación de lado del FrontEnd utilizando HTML,Javascript,Materialize</h3>
 
 - 🌱 Actualmente estoy aprendiendo y mejorando mis skills **JAVA,Javascript**
 
