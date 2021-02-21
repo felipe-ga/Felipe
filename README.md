@@ -9,6 +9,7 @@
 
 - 📄 Know about my experiences [Soy Software Developer con experiencia en desarrollar aplicaciones para el sector financiero. He participado en desarrollo tanto del lado del BackEnd construyendo servicios REST con JAVA y C# así como la participación de lado del FrontEnd.]
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fgaguilar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fgaguilar" height="30" width="40" /></a>
