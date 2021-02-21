@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **galindoaguilarf@gmail.com**
 
-- 📄 Know about my experiences [Soy Software Developer con experiencia en desarrollar aplicaciones para el sector financiero. He participado en desarrollo tanto del lado del BackEnd construyendo servicios REST con JAVA y C# así como la participación de lado del FrontEnd.](Soy Software Developer con experiencia en desarrollar aplicaciones para el sector financiero. He participado en desarrollo tanto del lado del BackEnd construyendo servicios REST con JAVA y C# así como la participación de lado del FrontEnd.)
+- 📄 Know about my experiences [Soy Software Developer con experiencia en desarrollar aplicaciones para el sector financiero. He participado en desarrollo tanto del lado del BackEnd construyendo servicios REST con JAVA y C# así como la participación de lado del FrontEnd.]
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
